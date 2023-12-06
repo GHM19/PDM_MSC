@@ -14,9 +14,10 @@ class MyApp extends StatelessWidget {
           title: Text('My app bar title')
         ),
         body: Center(
-          child: Text('Hola mundo!')
+          child: Text('Hola mundo!');
         )
       )
     );
-  }
+  },
 }
+git commit -m "uso de commit 06-12-23 Guillermo Hernandez"
